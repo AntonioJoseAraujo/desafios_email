@@ -1,6 +1,6 @@
 # Desafios Email
 
-Este repositório contém desafios no envio de e-mail, com e sem anex.
+Este repositório contém desafios no envio de e-mails, com e sem anexo.
 
 ## 📋 Descrição
 
@@ -19,7 +19,6 @@ Aqui você encontrará scripts que automatizam tarefas no envio de e-mail.
     ```
 
 
-```
 ## 🛠 Tecnologias Usadas
 - Python
 - Smtplib
